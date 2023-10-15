@@ -1,24 +1,23 @@
 '' *****************************************************************************
-'' ABOUT THIS FILE 
+
+'' ABOUT THIS FILE
 
 '' AUTHOR IDENTITY:
+'' Initials Name/Company
 
-'' Initials						Name/Company
-'' --------		 				-----------------------------------------
-'' rw 							Rick Wagonner ABC INC
+'' -------- -----------------------------------------
 
+'' rw Rick Wagonner ABC INC
 '' REVISION HISTORY:
+'' Date/Initials Comments
 
-'' Date/Initials	 	Comments
-'' ---------					-------------------------------
-
-'' 02/20/2019  rw	Created for LoanApp 2.1
-
-
+'' --------- -------------------------------
+'' rw Created for LoanApp 2.1
 
 ''*****************************************
-''SCRIPT
 
+''SCRIPT
+''Test cases for phase 1
 
 ''Valid input
 AddUser "dsmith", "password", "Peter", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
